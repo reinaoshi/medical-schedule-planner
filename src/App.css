@@ -1,0 +1,26 @@
+.app-header {
+    background-color: #f8f9fa;
+    padding: 10px 20px;
+    border-bottom: 1px solid #dee2e6;
+}
+
+.nav {
+    display: flex;
+    justify-content: space-between;
+}
+
+.nav-links {
+    list-style: none;
+    padding: 0;
+}
+
+.nav-links li {
+    display: inline;
+    margin-right: 15px;
+}
+
+.main-content {
+    padding: 20px;
+    background-color: #ffffff;
+    min-height: calc(100vh - 60px);
+}
